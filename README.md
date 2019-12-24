@@ -1,2 +1,2 @@
 # VinceDeslo.github.io
-Miscellaneous projects portfolio
+A portfolio to showcase miscellaneous projects completed during my studies.
